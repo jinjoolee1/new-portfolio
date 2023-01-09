@@ -233,11 +233,12 @@ main {
 }
 
 .pastel-puzzles {
-  background-image: url("../images/02-portfolio-3.jpg");
+  background-image: url("../images/02-portfolio-4.jpg");
 }
 
-.surf-report {
-  background-image: url("Main\assets\images\screenshot.png");
+.pokebook {
+  background-image: url("../images/pokemon.jpg");
+  
 }
 
 /* end portfolio project images */
