@@ -87,8 +87,7 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
-  background-image: url("Main\assets\images\360_F_455396127_BZjqSIXl6XYkuERRYDixG8neJRJkFJls.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../images/nebula.webp"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
